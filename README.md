@@ -15,16 +15,15 @@ Our primary focus is on understanding the environmental contamination in the are
 - **Paper**: [BajaNestVision Paper]()
 - **Demo**: [Hugging Face Spaces Demo](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
 
-## Running the Streamlit App
+## Dataset, Videos, and Model Weights
 
-To run the Streamlit app that accompanies this project, follow these simple steps:
+To facilitate your involvement and exploration of our project, we provide access to the following resources:
 
-1. **Clone the Repository**: Clone this repository to your local machine using the following command:
+- **Dataset**: [BajaNestVision Dataset]()
+- **Model Weights**: [BajaNestVision Model Weights](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
+- **Videos of Nests**: [BajaNestVision Nest Videos]()
 
-   ```bash
-   git clone https://github.com/verdugo-danieML/BajaNest.git
-
-Feel free to explore the app's functionalities and interact with our models and data.
+Feel free to download the dataset, model weights, and videos to conduct your analyses or contribute to the project. We encourage collaboration and welcome your insights.
 
 ## Contributing
 We welcome contributions from the community. If you're interested in collaborating or have ideas to improve our project, please open an issue or a pull request on this GitHub repository.

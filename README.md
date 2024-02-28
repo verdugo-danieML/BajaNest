@@ -19,9 +19,9 @@ Our primary focus is on understanding the environmental contamination in the are
 
 To facilitate your involvement and exploration of our project, we provide access to the following resources:
 
-- **Dataset**: [BajaNestVision Dataset]()
-- **Model Weights**: [BajaNestVision Model Weights](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
-- **Videos of Nests**: [BajaNestVision Nest Videos]()
+- **Dataset**: [BajaNestVision Dataset](https://drive.google.com/drive/folders/13yB_yGzkVW4SAkHpl1FzF4PFEhD2oozN?usp=sharing)
+- **Model Weights**: [BajaNestVision Model Weights](https://drive.google.com/drive/folders/1mnIgWW30q5RKlCWSrbnfEJ1MClRLKV4a?usp=sharing)
+- **Videos of Nests**: [BajaNestVision Nest Videos](https://drive.google.com/drive/folders/1o4xscuxwyFrepDgtjVPnZ6Dy6CoTiyST?usp=sharing)
 
 Feel free to download the dataset, model weights, and videos to conduct your analyses or contribute to the project. We encourage collaboration and welcome your insights.
 

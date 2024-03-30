@@ -12,7 +12,7 @@ Our primary focus is on understanding the environmental contamination in the are
 
 ## Project Links
 
-- **Paper**: [BajaNestVision Paper]()
+- **Paper**: [BajaNestVision Paper]() in Review
 - **Demo**: [Hugging Face Spaces Demo](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
 
 ## Dataset, Videos, and Model Weights

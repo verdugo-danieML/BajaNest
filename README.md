@@ -2,7 +2,7 @@
 
 Welcome to BajaNestVision, an innovative deep learning initiative dedicated to environmental research in the stunning Ensenada region of Baja California, Mexico. Our mission is to harness cutting-edge computer vision algorithms to achieve two key objectives:
 
-1. **Nest Segmentation**: We meticulously segment Agila Pescadora nests, delving into their intricate composition.
+1. **Nest Segmentation**: We meticulously segment oysprey nests, delving into their intricate composition.
 
 2. **Inorganic Material Detection**: We pinpoint and quantify the presence of inorganic materials within these nests.
 

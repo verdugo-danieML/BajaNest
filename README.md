@@ -9,7 +9,7 @@
 [![Model Weights](https://img.shields.io/badge/⚡-Model%20Weights-red)](https://drive.google.com/drive/folders/1mnIgWW30q5RKlCWSrbnfEJ1MClRLKV4a?usp=sharing)
 
 ## 🎯 Live Demo
-![BajaNestVision Demo](assets/demo.gif)
+![BajaNestVision Demo](./assets/Demo_bajanest.gif)
 
 **Try it yourself:** [Interactive Hugging Face Demo](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
 - Upload osprey nest images for real-time analysis
@@ -141,11 +141,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use BajaNestVision in your research, please cite our work:
 
 ```bibtex
-@article{verdugo2024bajanest,
-  title={BajaNestVision: Multi-Modal Foundation Model Integration for Environmental Contamination Assessment},
-  author={Verdugo-Siqueiros, Roberto Daniel and [Co-authors]},
-  journal={[Journal Name]},
-  year={2024},
+@article{verdugo2025bajanest,
+  title={Fast assessment of debris in osprey Pandion haliaetus nests using deep learning based image segmentation},
+  author={Verdugo-Siqueiros, Roberto Daniel and Luis Pellegrin and Gonzalo De León-Girón,},
+  journal={Multimedia Tools and Applications},
+  year={2025},
   note={Under Review}
 }
 ```

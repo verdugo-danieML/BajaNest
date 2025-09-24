@@ -4,7 +4,7 @@
 > Harnessing cutting-edge computer vision to protect wildlife and ecosystems in Ensenada, Baja California, Mexico through automated nest analysis and contamination detection.
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-blue)](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
-[![Paper](https://img.shields.io/badge/📄-Paper%20(Under%20Review)-green)](#research-paper)
+[![Paper](https://img.shields.io/badge/📄-Paper%20(Under%20Review)-green)]([#research-paper](https://drive.google.com/file/d/1T-z0ae-lsA-v8aB8lVHxRqwKkULoOJN4/view?usp=sharing))
 [![Dataset](https://img.shields.io/badge/💾-Dataset-orange)](https://drive.google.com/drive/folders/13yB_yGzkVW4SAkHpl1FzF4PFEhD2oozN?usp=sharing)
 [![Model Weights](https://img.shields.io/badge/⚡-Model%20Weights-red)](https://drive.google.com/drive/folders/1mnIgWW30q5RKlCWSrbnfEJ1MClRLKV4a?usp=sharing)
 

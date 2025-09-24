@@ -9,7 +9,7 @@
 [![Model Weights](https://img.shields.io/badge/⚡-Model%20Weights-red)](https://drive.google.com/drive/folders/1mnIgWW30q5RKlCWSrbnfEJ1MClRLKV4a?usp=sharing)
 
 ## 🎯 Live Demo
-![BajaNestVision Demo](./assets/demo.gif)
+![BajaNestVision Demo](assets/demo.gif)
 
 **Try it yourself:** [Interactive Hugging Face Demo](https://huggingface.co/spaces/danie94-lml/1Baja-Nest-segmentation)
 - Upload osprey nest images for real-time analysis
